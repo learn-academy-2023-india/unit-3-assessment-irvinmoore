@@ -38,13 +38,13 @@ PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
 ### Interview Practice Questions
 
 1. What are three (3) syntax difference between HTML and JSX?
-
+A: className, Inline Styles, and Self-closing tags
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
-
+A: Yarn is a package manager and modifies the yarn.lock file
 3. What is the difference between state values and props in React?
-
+A: State is used for managing internal data within a component, while props are used for passing data from a parent component to a child component. 
 4. STRETCH (optional): What is the difference between a div tag and a span tag?
-
+A: 
 ### Looking Ahead: Terms for Next Unit
 
 1. Object-oriented programming:

@@ -2,11 +2,17 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  background-color: rgba(193, 36, 36, 0.963);
 }
 .cardStyles {
-  border: 1px solid black;
+  border: 20px solid orange;
   width: 70px;
   height: 95px;
   margin: 10px;
   padding: 10px;
+  background-color: green;
+}
+h1{
+  text-align: center;
+  font-size: 40px;
 }
